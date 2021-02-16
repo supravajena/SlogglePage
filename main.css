@@ -1,0 +1,119 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    background:black !important;
+    
+    
+}
+
+.highlight {
+    color: #0000ff;
+}
+
+#titleText {
+    font-size: 2.5rem;
+    
+    background:  #1c87c9 50%, #8ebf42 50%;
+    background-clip: text;
+    
+    text-decoration-color: white;
+}
+
+#titleSubtext {
+    font-size: small;
+}
+
+.navButton {
+    width: 150px;
+    margin-right: 1rem;
+}
+
+.secNav {
+    background: green;
+}
+
+#secNavFirstItem {
+    margin-left: 0;
+    padding-left: 0;
+    background: black;
+}
+
+.heroSection {
+    height: 300px;
+    background:black;
+}
+
+.heroSectionText {
+    
+    padding-top: 20vh;
+    text-decoration-color: #e9e1e1;
+    
+}
+
+#filterSkillsForm, #hireFreelancerForm {
+    height: 400px;
+    background: black;
+}
+.box1 {
+    width: 100%;
+    height: 200px;
+    
+    background:gray;
+    }
+footer {
+    background: black;
+}
+
+footer .list-group-item {
+    background: transparent;
+}
+
+footer a {
+    text-decoration: none;
+    color: rgb(33, 37, 41);
+}
+
+.footerListFirstItem {
+    font-weight: 700;
+    
+}
+
+.spacer {
+    height: 1rem;
+}
+
+.unstyledLinks {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+#sloggleLinksTitle {
+    padding-top: 1.5rem;
+    padding-bottom: 1rem;
+}
+
+.sloggleLinks {
+    font-size: 1.3rem;
+}
+.input-icons i { 
+    position: absolute; 
+} 
+  
+.input-icons { 
+    width: 300%; 
+    margin-bottom: 100px; 
+} 
+  
+.icon { 
+    padding: 12px; 
+    min-width: 40px; 
+} 
+.secNavFirstItem{
+    background-color: black;
+}
+  
+
+  
